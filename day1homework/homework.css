@@ -17,6 +17,18 @@ li {
     margin-left: 645px
 }
 
+img {
+    padding: 1px;
+    border: 1px solid #021a40;
+    background-color: #ff0;
+    
+}
+
 .nav {
-    margin-left: 640px
+    margin-left: 640px;
+}
+
+.picture {
+    margin: auto;
+    width: auto;
 }
