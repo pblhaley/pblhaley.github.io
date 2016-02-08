@@ -1,0 +1,47 @@
+body {
+    width: 75%;
+    margin: 0 auto;
+    background-color: aliceblue;
+    font-family: Verdana;
+}
+
+header, nav, main, section, aside, footer {
+    padding: 5px;
+    margin-top: 10px;
+}
+
+section, aside {
+    float: left;
+}
+
+section {
+    width: 70%
+}
+aside {
+    width: 25%;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana;
+}
+
+nav {
+    text-align: center;
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+header{
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana;
+    font-weight: bolder;
+}
+
+img {
+    width: 75%;
+    
+}
