@@ -1,0 +1,43 @@
+body {
+    width:970px;
+    margin-left: 200px;
+}
+
+
+
+
+
+.top {
+    background-color: blue;
+    color: white;
+    height: 150px;
+}
+
+.top a {
+    color: white;
+}
+
+.top p {
+    color: blue;
+}
+
+.customer {
+    background-color: lightgray;
+    height: 100px;
+}
+
+.overview {
+    font-size: 25px;
+}
+
+.customer h3 {
+    font-size: 25px;
+}
+
+.ready h3 {
+    font-size: 25px;
+}
+
+.core h3 {
+    font-size: 25px;
+}
