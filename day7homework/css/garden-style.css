@@ -1,0 +1,154 @@
+.small-box {
+    width: 300px;
+    padding: 50px;
+}
+
+.small-box h2 {
+    color: white;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-family: verdana;
+    margin-bottom: 15px;
+    padding-top: 45px;
+}
+
+.small-box p {
+    color: yellowgreen;
+    font-family: verdana;
+    width: 280px;
+}
+
+#grow {
+    background: url('../img/wateringcan.jpg');
+    background-repeat: no-repeat;
+    background-color: #404040;
+    background-blend-mode: soft-light;
+    height: 160px;
+    width: 270px;
+    margin-bottom: 10px;
+}
+
+#plant {
+    background: url('../img/smallspade.jpg');
+    background-repeat: no-repeat;
+    background-color: #404040;
+    background-blend-mode: soft-light;
+    width: 270px;
+    height: 160px;
+}
+
+.big-box h1 {
+    color: white;
+    text-transform: uppercase;
+}
+
+#land {
+    background: url('../img/grasshouse.jpg');
+    background-repeat: no-repeat;
+    background-color: #404040;
+    background-blend-mode: soft-light;
+    width: 640px;
+    height: 280px;
+    padding: 150px 50px 100px 50px;
+    float: left;
+    font-family: verdana;
+}
+
+#land h1{
+    color: white;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+#land h3 {
+    color: yellowgreen;
+    margin-bottom: 15px;
+}
+
+#land p {
+    color: white;
+    font-size: 11px;
+    margin-bottom: 15px;
+    line-height: 20px;
+}
+
+#about {
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 13px;
+    background-color: gray;
+    padding: 6px 15px 9px 15px;
+}
+
+#products {
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 13px;
+    border: 2px solid white;
+    padding: 6px 15px 9px 15px;
+}
+
+main {
+    width: 1120px;
+}
+
+aside{
+    float: left;
+    margin-right: 10px;
+}
+
+.clearfix:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+#craft {
+    background: url('../img/spade.jpg');
+    background-repeat: no-repeat;
+    background-color: #404040;
+    background-blend-mode: soft-light;
+    color: white;
+    width: 1539px;
+    height: 712px;
+}
+
+#craft a {
+    align-content: center;
+    text-decoration: none;
+    color: white;
+    font-family: verdana;
+    font-size: 10px
+}
+
+#craft p {
+    text-align: center;
+    font-family: verdana;
+}
+
+#craft h1 {
+    text-align: center;
+    font-family: verdana;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-style: bold;
+    margin: 20px;
+}
+
+#craft h3 {
+    text-align: center;
+    font-family: verdana;
+    margin-bottom: 30px;
+}
+
+#craft div {
+    padding: 240px;
+    text-align: center;
+}
+
+#contact {
+    background-color: yellowgreen;
+    padding: 8px 15px 7px 15px;
+}
