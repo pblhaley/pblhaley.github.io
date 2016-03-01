@@ -54,7 +54,7 @@
     font-family: verdana;
 }
 
-#land h1{
+#land h1 {
     color: white;
     font-size: 30px;
     margin-bottom: 15px;
@@ -94,7 +94,7 @@ main {
     width: 1120px;
 }
 
-aside{
+aside {
     float: left;
     margin-right: 10px;
 }
