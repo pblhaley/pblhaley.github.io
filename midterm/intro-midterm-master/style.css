@@ -1,0 +1,42 @@
+#container {
+    display: block;
+    margin: 0px auto;
+}
+
+body {
+    width: 1073px;
+    margin: 0px;
+}
+
+main {
+    font-family: georgia;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0px;
+    font-family: georgia;
+}
+
+#pizza {
+    margin: 0px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 2em;
+}
+
+p {
+    padding: 10px 150px 60px 150px;
+}
+
+.column img {
+    height: 200px;
+    display: inline-block;
+    padding: 25px;
+    float: left;
+    margin-left: 70px
+}
