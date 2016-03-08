@@ -1,0 +1,142 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.clear-fix:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+header nav {
+    padding-left: 75px;
+    padding-top: 25px;
+    float: left;
+}
+
+header nav a  {
+    text-decoration: none;
+    padding-left: 15px;
+    color: black;
+}
+
+header nav a:hover {
+    text-decoration: underline;
+}
+
+#hero {
+    background: url(../img/med-102.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 250px 0px;
+}
+
+#hero div {
+    width: 40%;
+    text-align: center;
+}
+
+#hero h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+#hero h4 {
+    margin-bottom: 15px;
+}
+
+#hero a {
+    padding: 6px 8px;
+    text-decoration: none;
+    border: solid 1px black;
+    color: black;
+    
+}
+
+#hero a:hover {
+    background-color: lightgrey;
+    padding: 8px 10px;
+}
+
+#about {
+    height: 500px;
+    padding-top: 100px;
+}
+
+#about img {
+    float: left;
+    width: 400px;
+    padding: 50px;
+}
+
+#who {
+    width: 650px;
+    float: right;
+    text-align: center;
+    padding-top: 150px;
+}
+
+#who h3 {
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+#artist {
+    height: 500px;
+    background-color: cornsilk;
+}
+
+#artist > div {
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+
+#artist .column {
+    height: 300px;
+    margin: 0 auto;
+    padding: 28px;
+    margin-bottom: 200px;
+}
+
+.column img {
+    width: 100%;
+}
+
+.column h3{
+    text-align: center;
+}
+
+#service > div {
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+#service .picture-frame{
+    width: 450px;
+    height: 150px;
+    margin:0 auto;
+}
+
+.picture-frame img {
+    width: 100%
+}
+
+#service p {
+    padding-top: 75px;
+}
+
+#service em {
+    padding-left: 200px;
+}
+
+#contact {
+    text-align: center;
+    background-color: cornsilk;
+    padding: 50px 100px 50px 100px;
+    margin-top: 375px;
+}
