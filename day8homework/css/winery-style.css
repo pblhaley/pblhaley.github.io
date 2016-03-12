@@ -1,3 +1,13 @@
+#container {
+    display: block;
+    margin: 0px auto;
+}
+
+body {
+    width: 90%;
+    margin: 0px;
+}
+
 header {
     height: 35px;
     padding: 15px;
@@ -100,7 +110,7 @@ header nav a {
 }
 
 #selection img {
-    height: 400px;
+    height: 350px;
 }
 
 #selection h3 {
@@ -108,24 +118,87 @@ header nav a {
     font-weight: bold;
     font-style: italic;
     text-align: center;
-    font-size: 35px;
-    margin-bottom: 25px;
+    font-size: 30px;
+    margin-bottom: 15px;
+    margin-top:15px;
 }
 
 .column {
-    width: 350px;
+    width: 25%;
     display: inline-block;
     text-align: center;
     margin-left: 80px;
 }
 
 .column p {
-    margin-bottom: 15px;
+    margin-bottom: 25px;
 }
 
 .column a {
     color: white;
     text-decoration: none;
+    text-transform: uppercase;
     background-color: olivedrab;
     padding: 8px 10px 8px 10px;
+    border: solid 1px black;
+    border-radius: 5px;
+}
+
+footer {
+    font-family: georgia;
+    background: #747D7D;
+    height: 375px;
+    margin: auto;
+    margin-top: 20px;
+    float: none;
+    padding-left: 290px;
+}
+
+#office {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+footer section {
+    float: left;
+    height: 324px;
+    width: 270px;
+    margin: auto;
+}
+
+footer p {
+    color: white;
+    font-weight: lighter;
+}
+
+footer h4 {
+    text-align: left;
+    text-transform: uppercase;
+    margin-top: 50px;
+    font-style: italic;
+    color: white;
+    margin-bottom: 10px;
+}
+
+form {
+    width: 300px;
+    background-color: white;
+}
+
+input[type=Name] {
+    height: 20px;
+}
+
+input[type=Message] {
+    height: 100px;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: olivedrab;
+    padding: 8px 10px 8px 10px;
+    border: solid 1px black;
+    border-radius: 5px;
 }
