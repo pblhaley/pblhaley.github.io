@@ -183,14 +183,18 @@ footer h4 {
 form {
     width: 300px;
     background-color: white;
+    border: solid 1px black;
 }
 
 input[type=Name] {
     height: 20px;
+    width:300px;
+
 }
 
 input[type=Message] {
     height: 100px;
+    width:300px;
 }
 
 footer a {
