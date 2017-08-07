@@ -1,3 +1,36 @@
+#form {
+  width: 250px;
+  padding: 10px;
+  display: block;
+  margin: auto;
+}
+
+h4 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+a:visited {
+  color:yellow;
+}
+
+#schedule {
+  font-family: helvetica;
+  font-style: italic;
+}
+
+.border {
+  border: 1px solid black;
+  width: 500px;
+  display: block;
+  margin: auto;
+}
+
 body {
-  background: blue;
+  background-image: url("backgound.jpg");
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
 }
