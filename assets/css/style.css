@@ -274,7 +274,7 @@ ul.list-check {
 
 ul.list-check li{
     position: relative;
-    font-size: 18px;
+    font-size: 12px;
     line-height: 32px;
 }
 ul.list-check li::before {
@@ -560,7 +560,7 @@ SOCIAL ICON
     display:inline-block;
 }
 .short-info ul li {
-    width: 50%;
+    width: 33%;
     float: left;
 }
 
