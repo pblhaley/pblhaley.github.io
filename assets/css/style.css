@@ -1102,7 +1102,6 @@ Resume Timeline
    border-bottom: 3px double #eee;
 }
 
-
 .portfolio {
     position: relative;
     overflow: hidden;
@@ -1188,6 +1187,7 @@ Resume Timeline
     font-size: 16px;
     margin: 0 13px;
     z-index: 100;
+    margin-left: 35px;
 }
 .links a:hover i {
    color:  #fff;
